@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">euijin</string>
+    <string name="main_title">설문 1</string>
+    <string name="main_title2">설문 2</string>
+    <string name="main_title3">토익 스터디 열정적으로 같이 하실 분</string>
+    <string name="main_title4">안녕하세요 저희는 토익 스터디 열정적으로 같이 하실 분을...</string>
+    <string name="main_title5">당신의 토익 점수는?</string>
+    <string name="main_title6">지각비 걷기 동의하시나요?</string>
+    <string name="main_title7">어학</string>
+    <string name="main_title8">서울</string>
+    <string name="main_title9">비대면</string>
+
+    <string name="main_title10">4인 이하</string>
+
+    <string name="main_title11">화요일</string>
+
+
+</resources>

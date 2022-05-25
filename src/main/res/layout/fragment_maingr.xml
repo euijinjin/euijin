@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".maingr">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/main_title"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="590dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/main_title2"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="685dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/main_title3"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="301dp" />
+
+
+        <TextView
+            android:layout_width="376dp"
+            android:layout_height="35dp"
+            android:background="@color/cardview_shadow_start_color"
+            android:text="@string/main_title5"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="624dp" />
+
+        <TextView
+            android:layout_width="376dp"
+            android:layout_height="35dp"
+            android:background="@color/cardview_shadow_start_color"
+            android:text="@string/main_title5"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="624dp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/AppCompatButton3"
+            android:layout_width="350dp"
+            android:layout_height="15dp"
+            tools:layout_editor_absoluteX="53dp"
+            tools:layout_editor_absoluteY="590dp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/AppCompatButton4"
+            android:layout_width="350dp"
+            android:layout_height="15dp"
+            tools:layout_editor_absoluteX="53dp"
+            tools:layout_editor_absoluteY="685dp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/AppCompatButton5"
+            android:layout_width="171dp"
+            android:layout_height="15dp"
+            tools:layout_editor_absoluteX="227dp"
+            tools:layout_editor_absoluteY="305dp" />
+
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="25dp"
+            android:autoSizeTextType="uniform"
+            android:background="@color/cardview_shadow_start_color"
+            android:text="@string/main_title7"
+            tools:layout_editor_absoluteX="53dp"
+            tools:layout_editor_absoluteY="175dp" />
+
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="25dp"
+            android:autoSizeTextType="uniform"
+            android:background="@color/cardview_shadow_start_color"
+            android:text="@string/main_title8"
+            tools:layout_editor_absoluteX="131dp"
+            tools:layout_editor_absoluteY="175dp" />
+
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="25dp"
+            android:autoSizeTextType="uniform"
+            android:background="@color/cardview_shadow_start_color"
+            android:text="@string/main_title9"
+            tools:layout_editor_absoluteX="202dp"
+            tools:layout_editor_absoluteY="175dp" />
+
+        <TextView
+            android:layout_width="53dp"
+            android:layout_height="22dp"
+            android:autoSizeTextType="uniform"
+            android:background="@color/cardview_shadow_start_color"
+            android:text="@string/main_title10"
+            tools:layout_editor_absoluteX="53dp"
+            tools:layout_editor_absoluteY="220dp" />
+
+            <TextView
+                android:layout_width="379dp"
+                android:layout_height="212dp"
+                android:background="@color/cardview_shadow_start_color"
+                android:text="@string/main_title4"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="350dp" />
+
+            <TextView
+            android:layout_width="50dp"
+            android:layout_height="25dp"
+            android:autoSizeTextType="uniform"
+            android:background="@color/cardview_shadow_start_color"
+            android:text="@string/main_title11"
+            tools:layout_editor_absoluteX="131dp"
+            tools:layout_editor_absoluteY="220dp" />
+
+
+
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
